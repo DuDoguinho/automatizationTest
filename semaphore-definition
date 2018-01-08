@@ -1,0 +1,14 @@
+Definição de Status Semáforo
+* Levantamento de cenários / Análise de Negócio
+* Fluxo Obrigatoriedade
+* Caminho Feliz
++ Validação dos campos (Tamanho e validação de tipagem)
++ Cenários Complementares
+
+Tasks 
+- Report e Correção de Bug
+- Documentação Wiki/TFS
+- Ajuste de suites Smoke/Regressão/E2E
+
+* Sem um desses itens o semáforo é definido como VERMELHO
++ Sem um desses itens o semáforo é definido como AMARELO
